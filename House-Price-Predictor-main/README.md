@@ -7,13 +7,6 @@ A beginner-friendly machine learning web app that predicts the **median house va
 #  Dataset
 
 - **Source:** California Housing Dataset (`housing.csv`)
-- **Features used:**
-  - Total Rooms
-  - Total Bedrooms
-  - Population
-  - Households
-  - Median Income
-  - Ocean Proximity (categorical)
 
 ---
 
@@ -41,7 +34,7 @@ A beginner-friendly machine learning web app that predicts the **median house va
 #  How to Run
 
 1. Clone this repository
-git clone https://github.com/Anshuman1982/house-price-predictor.git
+git clone https://github.com/Aditya13136/House-Price-Predictor/tree/master/House-Price-Predictor-main
 cd house-price-predictor
 
 2. Install dependencies
@@ -56,9 +49,6 @@ python model.py
 streamlit run app.py
 
 
-# 🎬 Live Demo
-
-![Demo of House Price Predictor](./demo.gif)
 
 
 # Notes 
@@ -83,9 +73,6 @@ house-price-predictor/
 ├── README.md
 └── .gitignore
 
-
-# Author
-Anshuman 
 
 
 

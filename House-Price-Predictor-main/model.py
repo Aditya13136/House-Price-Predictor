@@ -5,7 +5,7 @@ import joblib
 import os
 
 # Loading data
-df = pd.read_csv('data/housing.csv')
+df = pd.read_csv('housing.csv')
 df = df.sample(n=5000, random_state=42)  # Optional: reduce data size
 df = df.dropna()
 
