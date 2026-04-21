@@ -35,6 +35,7 @@ A beginner-friendly machine learning web app that predicts the **median house va
 
 1. Clone this repository
 git clone https://github.com/Aditya13136/House-Price-Predictor/tree/master/House-Price-Predictor-main
+
 cd house-price-predictor
 
 2. Install dependencies
@@ -60,6 +61,7 @@ Input is taken via Streamlit sliders for a smooth experience
 
 # Folder Structure
 
+'''
 house-price-predictor/
 │
 ├── data/
@@ -72,7 +74,7 @@ house-price-predictor/
 ├── model.py
 ├── README.md
 └── .gitignore
-
+'''
 
 
 
