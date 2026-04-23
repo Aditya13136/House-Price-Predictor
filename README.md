@@ -71,7 +71,7 @@ streamlit run app.py
 
 # 🎬 Demo
 
-![Demo]
+![Demo](demo/demo.gif)
 
 ---
 
