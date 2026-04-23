@@ -61,7 +61,7 @@ Input is taken via Streamlit sliders for a smooth experience
 
 # Folder Structure
 
-'''
+text```
 house-price-predictor/
 │
 ├── data/
@@ -74,7 +74,7 @@ house-price-predictor/
 ├── model.py
 ├── README.md
 └── .gitignore
-'''
+```
 
 
 
